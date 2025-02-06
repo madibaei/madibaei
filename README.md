@@ -1,6 +1,9 @@
 👋 Hi, I'm Mohammad Ali Dibaei (@madibaei)
+
 💻 PhD Candidate in Computer Science exploring the fascinating intersection of AI and games. My research delves into reinforcement learning for game AI, procedural content generation, etc.  I'm passionate about creating intelligent and engaging game experiences.
+
 🕹️  Beyond research, I'm a game designer and developer, bringing game concepts to life. 
+
 🎤 podcaster -> my podcasts: Turing - Prestige - Epsilon
 
 📫 Let's connect!
